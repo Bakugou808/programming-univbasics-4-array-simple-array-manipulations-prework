@@ -20,30 +20,30 @@ def using_shift(arr)
   arr.shift()
 end 
 
-def shift_w_args(arr)
+def shift_with_args(arr)
   arr.shift(2)
 end 
 
-def concat(arr1, arr2)
+def using_concat(arr1, arr2)
   arr1.concat(arr2)
 end 
 
-def insert(arr, ele)
+def using_insert(arr, ele)
   arr.insert(4, ele)
 end 
 
-def uniq(arr)
+def using_uniq(arr)
   arr.uniq()
 end 
 
-def flatten(arr)
+def using_flatten(arr)
   arr.flatten()
 end 
 
-def delete(arr, str)
+def using_delete(arr, str)
   arr.delete(str)
 end 
 
-def delete_at(arr, idx)
+def using_delete_at(arr, idx)
   arr.delete_at(idx)
 end
