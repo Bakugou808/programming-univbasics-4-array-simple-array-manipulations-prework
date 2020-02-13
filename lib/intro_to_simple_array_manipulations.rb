@@ -1,6 +1,6 @@
 
 
-def push(arr, str)
+def using_push(arr, str)
   arr.push(str)
 end
 
