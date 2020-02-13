@@ -8,15 +8,15 @@ def using_unshift(arr, str)
   arr.unshift(str)
 end 
 
-def pop(arr)
+def using_pop(arr)
   arr.pop()
 end
 
-def pop_w_args(arr)
+def pop_with_args(arr)
   arr.pop(2)
 end 
 
-def shift(arr)
+def using_shift(arr)
   arr.shift()
 end 
 
