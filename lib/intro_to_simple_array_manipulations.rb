@@ -4,7 +4,7 @@ def using_push(arr, str)
   arr.push(str)
 end
 
-def unshift(arr, str)
+def using_unshift(arr, str)
   arr.unshift(str)
 end 
 
