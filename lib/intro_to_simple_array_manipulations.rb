@@ -1,4 +1,3 @@
-require './lib/intro_to_simple_array_manipulations.rb'
 
 
 def push(arr, str)
